@@ -1,0 +1,73 @@
+.additemsDiv{
+    /* -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;  
+    display: inline; */
+    margin: 25px 400px 25px;
+    border: 1px black;
+    padding: 20px 35px;
+    box-shadow: 5px 10px 18px #888888;
+    position: relative;
+    cursor: pointer;
+}
+
+.shopName{
+    margin: 100px 400px 25px;
+    padding: 20px 220px;
+    color: #376297;
+    text-align: left;
+
+
+}
+
+.colum{
+    background-color: rgb(238, 236, 236);
+    padding: 20px 60px;
+
+    /* width: 30%; */
+    /* display: inline; */
+} 
+
+.additemsDiv img{
+    height: 200px;
+    width: 200px;
+}
+
+.btn-primary{
+    margin: 20px auto;
+    width: 25vw;
+    display: block;
+    color: #fff;
+    background-color: #1e3e63;
+    border-color: #1e3e63;
+}
+
+.btn-primary:hover{
+    color: #1e3e63;
+    background-color: white;
+}
+
+.btn-secondary{
+    margin: 40px 3px 0;
+    padding: 8px 20px;
+    display: inline;
+    width: auto;
+}
+
+.cartDiv{
+    margin-left: 30px;
+    position: fixed;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    top: 120px;
+    bottom: 100px;
+    border: 1px black;
+    padding: 20px 50px;
+    box-shadow: 5px 10px 18px #888888;
+    cursor: pointer;
+    min-height: 300px;
+}
+
+.cartDiv h1{
+    color: #376297;
+}

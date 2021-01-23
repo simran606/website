@@ -1,0 +1,27 @@
+.signDiv{
+    text-align: center;
+}
+
+.signDiv h1{
+    margin: 100px auto 60px;
+    color: #305e90
+}
+
+.form-control {
+    width: 25%;
+    margin: 10px auto;
+}
+
+/* .btn{
+    margin: 40px auto;
+    width: 15vw;
+    display: block;
+    color: #fff;
+    background-color: #1e3e63;
+    border-color: #1e3e63;
+}
+
+.btn:hover{
+    color: #1e3e63;
+    background-color: white;
+} */

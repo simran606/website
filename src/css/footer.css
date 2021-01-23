@@ -1,0 +1,24 @@
+.footerDiv{
+    background-color: #376297;
+    padding: 20px 250px;
+    color: white;
+}
+
+.footerDiv h6{
+    display: inline-block;
+}
+
+.footerDiv .footera{
+    margin-left: 330px;
+}
+
+.footerDiv a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.footerDiv a:hover{
+    text-decoration: none;
+    color: rgb(167, 166, 166);
+}

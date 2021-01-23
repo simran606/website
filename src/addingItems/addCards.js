@@ -1,0 +1,163 @@
+const addCards =[
+    {   
+        id:1,        
+        imgsr:"../../Images/1.jpg",
+        nop:"Maala",
+        units:1,
+        price:"₹200",
+        mrp: "₹400"   },
+    {   
+        id:2,
+        imgsr:"../../Images/2.webp",
+        nop:"Necklace1",
+        units:1,
+        price:"₹400",
+        mrp:"₹999"
+    },
+    {   
+        id:3,
+        imgsr:"../../Images/3.jpeg",
+        nop:"Necklace2",
+        units:1,
+        price:"₹250",
+        mrp:"₹900"
+    },
+    {   
+        id:4,
+        imgsr:"../../Images/4.jpg",
+        nop:"Necklace3",
+        units:1,
+        price:"₹400",
+        mrp:"₹800"
+    },
+    {   
+        id:5,
+        imgsr:"../../Images/5.jpg",
+        nop:"Necklace4",
+        units: 1 ,
+        price:"₹200",
+        mrp:"₹300"
+    },
+    {   
+        id:6,
+        imgsr:"../../Images/6.jfif",
+        nop:"Earrings1",
+        units:1,
+        price:"₹148",
+        mrp:"₹300"
+    },
+    {   
+        id:7,
+        imgsr:"../../Images/7.jfif",
+        nop:"Earrings2",
+        units:1,
+        price:"₹200",
+        mrp:"₹999"
+    },
+    {   
+        id:8,
+        imgsr:"../../Images/8.jfif",
+        nop:"Earrings3",
+        units:1,
+        price:"₹128",
+        mrp:"₹350"
+    },
+    {   
+        id:9,
+        imgsr:"../../Images/9.jfif",
+        nop:"Earrings4",
+        units:1,
+        price:"₹99",
+        mrp:"₹399"
+    },
+    {   
+        id:10,
+        imgsr:"../../Images/10.jfif",
+        nop:"Earrings5",
+        units:1,
+        price:"₹148",
+        mrp:"₹299"
+    },
+    {   
+        id:11,
+        imgsr:"../../Images/11.jfif",
+        nop:"Necklace Set1",
+        units:1,
+        price:"₹359",
+        mrp:"₹1100"
+    },
+    {   
+        id:12,
+        imgsr:"../../Images/12.jfif",
+        nop:"Necklace Set2",
+        units:1,
+        price:"₹499",
+        mrp:"₹1400"
+    },
+    {   
+        id:13,
+        imgsr:"../../Images/13.jfif",
+        nop:"Necklace Set3",
+        units:1,
+        price:"₹499",
+        mrp:"₹1299"
+    },
+    {   
+        id:14,
+        imgsr:"../../Images/14.jfif",
+        nop:"Necklace Set4",
+        units:1,
+        price:"₹499",
+        mrp:"₹1699"
+    },
+    {   
+        id:15,
+        imgsr:"../../Images/15.jfif",
+        nop:"Necklace Set5",
+        units:1,
+        price:"₹299",
+        mrp:"₹1399"
+    },
+    {   
+        id:16,
+        imgsr:"../../Images/16.jfif",
+        nop:"Necklace Set6",
+        units:1,
+        price:"₹499",
+        mrp:"₹1299"
+    },
+    {   
+        id:17,
+        imgsr:"../../Images/17.jfif",
+        nop:"Necklace Set7",
+        units:1,
+        price:"₹399",
+        mrp:"₹1500"
+    },
+    {   
+        id:18,
+        imgsr:"../../Images/18.jfif",
+        nop:"Mangteeka Set1",
+        units:1,
+        price:"₹299",
+        mrp:"₹1399"
+    },
+    {   
+        id:19,
+        imgsr:"../../Images/19.jfif",
+        nop:"Mangteeka Set2",
+        units:1,
+        price:"₹169",
+        mrp:"₹399"
+    },
+    {   
+        id:20,
+        imgsr:"../../Images/20.jfif",
+        nop:"Mangteeka Set3",
+        units:1,
+        price:"₹499",
+        mrp:"₹1399"
+    }
+];
+
+export default addCards;

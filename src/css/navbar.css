@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #376297;
+    padding: 10px 250px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.logo-img{
+    height: 50px;
+}
+
+#first{
+    margin-left: 450px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    /* margin: 5px 20px; */
+    color: white;
+}
+
+/* .nav-link:hover{
+    color:  rgb(167, 166, 166);
+} */

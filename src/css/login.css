@@ -1,0 +1,39 @@
+.loginDiv{
+    text-align: center;
+}
+
+.loginDiv img{
+    height: 100px;
+    margin: 100px 0 50px;
+}
+
+.form-control {
+    width: 25%;
+    margin: 10px auto;
+}
+
+.btn{
+    margin: 20px auto;
+    width: 25vw;
+    display: block;
+    color: #fff;
+    background-color: #1e3e63;
+    border-color: #1e3e63;
+}
+
+.btn:hover{
+    color: #1e3e63;
+    background-color: white;
+}
+
+#btn-sign{
+    margin: 150px auto 0;
+    color: #305e90;
+    background-color: white;
+    border-color: #8191a3;
+}
+
+#btn-sign:hover{
+    color: white;
+    background-color: #305e90;
+}
